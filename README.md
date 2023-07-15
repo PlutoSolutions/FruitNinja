@@ -1,14 +1,9 @@
-
-  
-
 <div  align="center">
-
-  
 
 # Fruit Ninja FX 2 (Hustlers University Edition)
 
+<img src="https://crystalpvp.ru/fruitninja/allah.png" alt="logo" width="25%" />
   
-
 mirrors:
 
 [crystalpvp.ru](https://crystalpvp.ru/fruitninja) / [mega.nz](https://mega.nz/file/gvd3CQQB#Pqr88Q3Z6fqaMW_siPBaB9GjBexo0MxUXhdwrwuWxHM)
@@ -19,7 +14,6 @@ mirrors:
 
 fruit ninja arcade game that uses poorly implemented Matrix DRM
 
-  
 
 # [ how-to ]
 
@@ -35,10 +29,5 @@ Extract rar from releases and run FruitNinja_2010_ATeamBuild_patch.exe in DataPC
 
 </div>  
 
-</div>
-
-  
-
 + [Steve From Minecraft](https://github.com/NUMBERONEMINECRAFTFAN2) - cracking
-
 + [HAV0X](https://github.com/HAV0X1014) - providing original files for the game
