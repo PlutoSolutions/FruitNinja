@@ -39,6 +39,6 @@ Extract rar from releases and run FruitNinja_2010_ATeamBuild_patch.exe in DataPC
 
   
 
-+ [Steve From Minecraft](https://github.com/NUMBERONEMINECRAFTFAN) - cracking
++ [Steve From Minecraft](https://github.com/NUMBERONEMINECRAFTFAN2) - cracking
 
 + [HAV0X](https://github.com/HAV0X1014) - providing original files for the game
