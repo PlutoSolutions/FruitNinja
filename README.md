@@ -12,14 +12,14 @@ mirrors:
 
 # [ info ]
 
-fruit ninja arcade game that uses poorly implemented Matrix DRM
+fruit ninja arcade game that uses poorly implemented Matrix DRM. make sure you have [Legacy DirectX SDK](https://www.microsoft.com/en-us/download/details.aspx?id=6812) installed
 
 
 # [ how-to ]
 
 
 
-Extract rar from releases and run FruitNinja_2010_ATeamBuild_patch.exe in DataPC folder. Press C or Y to insert credits. Mouse and touchscreen work fine.
+Extract rar from releases and run FruitNinja_2010_ATeamBuild_patch.exe in DataPC folder. Press C or Y to insert credits. Mouse and touchscreen work fine. 
 
 <div  align="center">
 
